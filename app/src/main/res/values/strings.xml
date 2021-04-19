@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Salento</string>
+    <string name="descripcionHoteles">En Salento encontrarás una variada oferta de hospedajes,
+        hoteles de lujo, hostales, zonas de acampar y glampings.</string>
+    <string name="descripcionComida">En Salento los platillos tipicos son la trucha arcoiris,
+        además puebes probar un platillo tipico de colombia, la bandeja paisa y distintos tipos de café.
+    </string>
+    <string name="descripcionTurismo">En salento encontraras distintos destinos turisticos entre los cuales
+        están la cascada de santarita, si eres amante del café no te puedes perder la visita a la
+        finca Ocaso, y ademas subir los 253 escalones para llegar al Mirador Alto de la Cruz.
+    </string>
 </resources>
